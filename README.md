@@ -43,9 +43,6 @@ If the connection succeeds, the port is reported as open. Otherwise, it is repor
 - `common-ports.md` – Notes on common ports and services
 - `sample-output.txt` – Example output from a scan
 
-## Ethical Use
-
-This project is intended for educational use and authorized lab environments only. It should only be used on systems you own or have permission to test.
 
 ## What I Learned
 
