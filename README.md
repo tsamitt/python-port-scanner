@@ -25,23 +25,23 @@ If the connection succeeds, the port is reported as open. Otherwise, it is repor
 ## Common Ports Scanned
 
 - 20 / 21 – FTP
-- 22 – SSH
-- 23 – Telnet
-- 25 – SMTP
-- 53 – DNS
-- 80 – HTTP
-- 110 – POP3
-- 139 – NetBIOS
-- 143 – IMAP
-- 443 – HTTPS
-- 445 – SMB
-- 3389 – RDP
+- 22 - SSH
+- 23 - Telnet
+- 25 - SMTP
+- 53 - DNS
+- 80 - HTTP
+- 110 - POP3
+- 139 - NetBIOS
+- 143 - IMAP
+- 443 - HTTPS
+- 445 - SMB
+- 3389 - RDP
 
 ## Files
 
-- `scanner.py` – Main Python script
-- `common-ports.md` – Notes on common ports and services
-- `sample-output.txt` – Example output from a scan
+- `scanner.py` - Main Python script
+- `common-ports.md` - Notes on common ports and services
+- `sample-output.txt` - Example output from a scan
 
 
 ## What I Learned
